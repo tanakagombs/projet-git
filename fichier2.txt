@@ -1,1 +1,2 @@
-Je suis fichier txt number é
+Je suis fichier txt number 2
+Je suis la  deuxime ligne
